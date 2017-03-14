@@ -1,2 +1,4 @@
-this repository is for entities, lists, and headings
-#lab2
+#Lab2
+This repository will contain all about me
+
+
