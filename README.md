@@ -1,4 +1,4 @@
 # Lab2
-This repository will contain all about me
+This repository will contain everything about our interests.
 
 
